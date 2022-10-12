@@ -1,0 +1,6 @@
+C:\Users\cansu\Desktop\şule\şule kod yedekleri\c#\soru5\soru5\bin\Debug\soru5.exe.config
+C:\Users\cansu\Desktop\şule\şule kod yedekleri\c#\soru5\soru5\bin\Debug\soru5.exe
+C:\Users\cansu\Desktop\şule\şule kod yedekleri\c#\soru5\soru5\bin\Debug\soru5.pdb
+C:\Users\cansu\Desktop\şule\şule kod yedekleri\c#\soru5\soru5\obj\Debug\soru5.csproj.CoreCompileInputs.cache
+C:\Users\cansu\Desktop\şule\şule kod yedekleri\c#\soru5\soru5\obj\Debug\soru5.exe
+C:\Users\cansu\Desktop\şule\şule kod yedekleri\c#\soru5\soru5\obj\Debug\soru5.pdb

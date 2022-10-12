@@ -1,0 +1,7 @@
+C:\Users\cansu\Desktop\şule\şule kod yedekleri\c#\soru20\soru20\bin\Debug\soru20.exe.config
+C:\Users\cansu\Desktop\şule\şule kod yedekleri\c#\soru20\soru20\bin\Debug\soru20.exe
+C:\Users\cansu\Desktop\şule\şule kod yedekleri\c#\soru20\soru20\bin\Debug\soru20.pdb
+C:\Users\cansu\Desktop\şule\şule kod yedekleri\c#\soru20\soru20\obj\Debug\soru20.csproj.AssemblyReference.cache
+C:\Users\cansu\Desktop\şule\şule kod yedekleri\c#\soru20\soru20\obj\Debug\soru20.csproj.CoreCompileInputs.cache
+C:\Users\cansu\Desktop\şule\şule kod yedekleri\c#\soru20\soru20\obj\Debug\soru20.exe
+C:\Users\cansu\Desktop\şule\şule kod yedekleri\c#\soru20\soru20\obj\Debug\soru20.pdb
